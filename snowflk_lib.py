@@ -4,6 +4,7 @@ Author: ajay.singh
 """
 
 import snowflake.connector
+# This is optional, snowflake login details can also be passed directly.
 from aws_lib import get_secret
 
 
